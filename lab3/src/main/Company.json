@@ -1,0 +1,7 @@
+{"id":25,"name":"Fluf",
+  "workers":[{"FirstName":"Bonny","LastNane":"Daniluk","Age":25,"position":"worker"},
+    {"FirstName":"Fluffy","LastNane":"Ken","Age":23,"position":"worker"},
+    {"FirstName":"Endy","LastNane":"Marsel","Age":31,"position":"worker"},
+    {"FirstName":"Luna","LastNane":"Lem","Age":35,"position":"worker"},
+    {"FirstName":"Jasper","LastNane":"Chase","Age":41,"position":"worker"}]
+}
